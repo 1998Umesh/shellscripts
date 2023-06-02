@@ -10,4 +10,5 @@ echo "Welcome to devops"
 echo "We are learning git"
 echo "This batch-18"
 echo "Good morning"
-
+echo "This is my first rapo"
+echo "This is batch-18"
